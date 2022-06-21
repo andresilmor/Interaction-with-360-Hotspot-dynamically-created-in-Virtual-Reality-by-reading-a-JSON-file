@@ -1,0 +1,131 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 32678 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files (x86)\ProjetoIntegrado_Multimedia_AndreMoreira\Unity Editors\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/andre/Desktop/Projetos/Unity/Interaction in 360 Image dynamically created
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59507
+Successfully changed project path to: C:/Users/andre/Desktop/Projetos/Unity/Interaction in 360 Image dynamically created
+C:/Users/andre/Desktop/Projetos/Unity/Interaction in 360 Image dynamically created
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.24 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/ProjetoIntegrado_Multimedia_AndreMoreira/Unity Editors/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/andre/Desktop/Projetos/Unity/Interaction in 360 Image dynamically created/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files (x86)/ProjetoIntegrado_Multimedia_AndreMoreira/Unity Editors/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files (x86)/ProjetoIntegrado_Multimedia_AndreMoreira/Unity Editors/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files (x86)/ProjetoIntegrado_Multimedia_AndreMoreira/Unity Editors/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files (x86)/ProjetoIntegrado_Multimedia_AndreMoreira/Unity Editors/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001797 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.41 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002685 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.26 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1731 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.7 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2167.
+Total: 1.831700 ms (FindLiveObjects: 0.147400 ms CreateObjectMapping: 0.059000 ms MarkObjects: 1.575200 ms  DeleteObjects: 0.049400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Player Input Actions.inputactions
+  artifactKey: Guid(de4cb97febb5461468aabd59c9263d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player Input Actions.inputactions using Guid(de4cb97febb5461468aabd59c9263d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef49ef6fe1cb6a2365fda381a242ce9') in 0.029496 seconds
+  Import took 0.031884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.781461 seconds.
+  path: Assets/Materials/moa_00_00_mat.mat
+  artifactKey: Guid(6914b31df90a65a4495678cdb0a841b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/moa_00_00_mat.mat using Guid(6914b31df90a65a4495678cdb0a841b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07a11d2430aef1fe831f16a8f622eaea') in 0.094905 seconds
+  Import took 0.098119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Materials/moa_00_01_mat.mat
+  artifactKey: Guid(1a01aa26183f41745b937f19d36344f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/moa_00_01_mat.mat using Guid(1a01aa26183f41745b937f19d36344f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca82786d00bb6d9ad26931c8b948a01') in 0.022256 seconds
+  Import took 0.025036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Materials/moa_01_00_mat.mat
+  artifactKey: Guid(d5e0b7c0d7693ab4a905c78464ad624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/moa_01_00_mat.mat using Guid(d5e0b7c0d7693ab4a905c78464ad624f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c77a9c09bc359ef445b67d146d5f1c3') in 0.018148 seconds
+  Import took 0.020887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Materials/moa_00_02_mat.mat
+  artifactKey: Guid(a889f1b1605bbae49b11c238c23cbaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/moa_00_02_mat.mat using Guid(a889f1b1605bbae49b11c238c23cbaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab77f747eb6f6f83f5880a124f841fd8') in 0.018537 seconds
+  Import took 0.021792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.621146 seconds.
+  path: Assets/Textures/IMG_20210429_111808.JPG
+  artifactKey: Guid(db046afaedfba0f4fb4207c7eddf5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/IMG_20210429_111808.JPG using Guid(db046afaedfba0f4fb4207c7eddf5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd573cedca0177f87c433833f301f5370') in 0.044282 seconds
+  Import took 0.047133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007220 seconds.
+  path: Assets/Textures/IMG_20210429_111808.JPG
+  artifactKey: Guid(db046afaedfba0f4fb4207c7eddf5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/IMG_20210429_111808.JPG using Guid(db046afaedfba0f4fb4207c7eddf5ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd573cedca0177f87c433833f301f5370') in 0.020563 seconds
+  Import took 0.023567 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

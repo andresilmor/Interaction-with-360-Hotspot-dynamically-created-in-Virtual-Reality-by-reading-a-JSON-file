@@ -1,0 +1,43 @@
+{
+    "name": "Museu da Oliveira e do Azeite",
+    "scaleX": 9,
+    "scaleY": 9,
+    "scaleZ": 9,
+    "images": [{
+        "materialName": "moa_01_00_mat",
+        "mapping": [{
+            "type": "text",
+            "information": "Candeia de Azeite\n\nTrata-se de um recipiente com azeite como combustível onde sobre o qual tipicamente flutua um um pavio encerado fixo. É um utensílio cujo o uso remonta à pré-história e se mantem até aos dias de hoje.",
+            "positionX": 2.332,
+            "positionY": -0.73,
+            "positionZ": 3.525
+        }, {
+            "type": "text",
+            "information": "TESTANDO 2",
+            "positionX": 1.064,
+            "positionY": -0.933,
+            "positionZ": 3.964
+        }, {
+            "type": "text",
+            "information": "TESTANDO 3",
+            "positionX": -0.428,
+            "positionY": -0.99,
+            "positionZ": 3.966
+        }, {
+            "type": "text",
+            "information": "TESTANDO 4",
+            "positionX": 3.079,
+            "positionY": -0.599,
+            "positionZ": 2.977
+        }]
+    }, {
+        "materialName": "moa_00_01_mat",
+        "mapping": [{
+            "type": "text",
+            "information": "Moagem de Pedra Motorizada\n\nEquipamento para moagem da azeitona, onde um conjunto de pedras movimentadas através de meios motorizados irá esmagar a azeitona de forma a criar uma pasta.\nA moagem constitui-se na  primeira fase da extração do azeite, sendo um processo lento. Deste processo resulta um produto pouco emulsionado.",
+            "positionX": -0.599,
+            "positionY": -0.082,
+            "positionZ": -3.922
+        }]
+    }]
+}
